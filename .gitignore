@@ -1,0 +1,8 @@
+.vs/
+Intermediate/
+Saved/
+*.db
+*.opendb
+*.pdb
+*.sln
+Build/
