@@ -14,7 +14,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 #include "RunebergVRPluginPrivatePCH.h"
 #include "RunebergVR_Teleporter.h"
 #include "Kismet/KismetMathLibrary.h"
-#include "Kismet/HeadMountedDisplayFunctionLibrary.h"
+#include "HeadMountedDisplayFunctionLibrary.h"
 #include "IHeadMountedDisplay.h"
 
 // Sets default values for this component's properties
