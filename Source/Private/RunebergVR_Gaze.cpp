@@ -38,7 +38,7 @@ void URunebergVR_Gaze::TickComponent(float DeltaTime, ELevelTick TickType, FActo
 		FHitResult	Hit;
 
 		FCollisionQueryParams TraceParameters(FName(TEXT("")), false, GetOwner());
-		UWorld* World = GEngine->GetWorldFromContextObject(GetOwner(), EGetWorldErrorMode::Assert);
+		UWorld* World = GEngine->GetWorldFromContextObject(GetOwner());
 		bool const bHit = World->LineTraceSingleByChannel(Hit, 
 			GetAttachParent()->GetComponentLocation(), 
 			GetAttachParent()->GetComponentLocation() + (GetAttachParent()->GetComponentRotation().Vector() * GazeRange),
@@ -162,6 +162,7 @@ void URunebergVR_Gaze::StartGaze(float Gaze_Range, float Gaze_TargetDuration, bo
 	RuntimeReadOnly.IsGazing = true;
 
 	bDrawDebugLine = DrawDebugLine;
+
 }
 
 // End Gaze
