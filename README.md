@@ -1,4 +1,4 @@
-# Unreal Engine VR Plugin v3.0.1
+# Unreal Engine VR Plugin v3.0.1.1
 **PLUGIN ONLY REPOSITORY**
 
 Unreal Engine Virtual Reality Pawn and Components plugin for common VR mechanics. Can be used for either Blueprint or C++ VR projects. All nodes (Blueprint) and Functions (C++) have a range of parameters for full flexibility and compatible with the VIVE Motion Controllers/Room-Scale VR projects. 
@@ -13,7 +13,11 @@ Also available in the [Unreal Engine Marketplace](https://www.unrealengine.com/m
 **For a UE 4.17 compatible plugin [CLICK HERE](https://github.com/1runeberg/RunebergVR_Plugin)**
 
 
-## Latest Release Notes (UE 4.17)
+## Latest Release Notes (UE 4.16 upwards)
+3.0.1.1:
+- Minor bug fixes & refactor (Gaze component)
+- Max Step Rate for Uneven Terrain by MrBigToe (VR Pawn)
+
 3.0:
 - New Teleport Fade In & Out Options (Teleport)
 - New Configurable beam/arc boundary object types (Teleport)
