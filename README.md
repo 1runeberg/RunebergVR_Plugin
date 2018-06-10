@@ -1,4 +1,4 @@
-# Unreal Engine VR Plugin v3.0.4
+# Unreal Engine VR Plugin v3.0.5
 **PLUGIN ONLY REPOSITORY**
 
 Unreal Engine Virtual Reality Pawn and Components plugin for common VR mechanics. Can be used for either Blueprint or C++ VR projects. All nodes (Blueprint) and Functions (C++) have a range of parameters for full flexibility and compatible with the VIVE Motion Controllers/Room-Scale VR projects. 
@@ -14,7 +14,10 @@ Also available in the [Unreal Engine Marketplace](https://www.unrealengine.com/m
 
 **For a UE 4.17 compatible plugin [CLICK HERE](https://github.com/1runeberg/RunebergVR_Plugin/tree/4.17)**
 
-## Latest Release Notes (UE 4.18)
+## Latest Release Notes (UE 4.19)
+3.0.5:
+- Add Nav mesh checking ability to 360 movement (6 DOF) mechanic
+
 3.0.4:
 - Fix Oculus Teleport custom height offset not being applied (Teleporter)
 - Set default pawn spawn collision to ignore any colliding assets within the level (VRPawn)
