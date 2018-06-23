@@ -8,13 +8,13 @@ Also available in the [Unreal Engine Marketplace](https://www.unrealengine.com/m
 **Supports both SteamVR/Vive & the Oculus Rift**
 
 ## IMPORTANT:
-**For a demo project [CLICK HERE](https://github.com/1runeberg/RunebergVRPlugin/tree/4.19)**
+**For a demo project [CLICK HERE](https://github.com/1runeberg/RunebergVRPlugin/tree/4.20)**
+
+**For a UE 4.19 compatible plugin [CLICK HERE](https://github.com/1runeberg/RunebergVR_Plugin/tree/4.19)**
 
 **For a UE 4.18 compatible plugin [CLICK HERE](https://github.com/1runeberg/RunebergVR_Plugin/tree/4.18)**
 
-**For a UE 4.17 compatible plugin [CLICK HERE](https://github.com/1runeberg/RunebergVR_Plugin/tree/4.17)**
-
-## Latest Release Notes (UE 4.19)
+## Latest Release Notes (UE 4.20)
 3.0.5:
 - Add Nav mesh checking ability to 360 movement (6 DOF) mechanic
 
