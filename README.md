@@ -15,6 +15,9 @@ Also available in the [Unreal Engine Marketplace](https://www.unrealengine.com/m
 **For a UE 4.18 compatible plugin [CLICK HERE](https://github.com/1runeberg/RunebergVR_Plugin/tree/4.18)**
 
 ## Latest Release Notes (UE 4.20)
+3.0.6
+- Hotfix for Teleport Component not working properly if BeamHitNavMeshTolerance is set beyond FVector::ZeroVector
+
 3.0.5:
 - Add Nav mesh checking ability to 360 movement (6 DOF) mechanic
 
