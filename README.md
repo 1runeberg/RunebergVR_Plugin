@@ -8,13 +8,13 @@ Also available in the [Unreal Engine Marketplace](https://www.unrealengine.com/m
 **Supports both SteamVR/Vive & the Oculus Rift**
 
 ## IMPORTANT:
-**For a demo project [CLICK HERE](https://github.com/1runeberg/RunebergVRPlugin/tree/4.21)**
+**For a demo project [CLICK HERE](https://github.com/1runeberg/RunebergVRPlugin/tree/4.22)**
+
+**For a UE 4.21 compatible plugin [CLICK HERE](https://github.com/1runeberg/RunebergVR_Plugin/tree/4.21)**
 
 **For a UE 4.20 compatible plugin [CLICK HERE](https://github.com/1runeberg/RunebergVR_Plugin/tree/4.20)**
 
-**For a UE 4.19 compatible plugin [CLICK HERE](https://github.com/1runeberg/RunebergVR_Plugin/tree/4.19)**
-
-## Latest Release Notes (UE 4.21)
+## Latest Release Notes (UE 4.22)
 3.0.6
 - Hotfix for Teleport Component not working properly if BeamHitNavMeshTolerance is set beyond FVector::ZeroVector
 
